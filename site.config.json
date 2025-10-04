@@ -1,0 +1,17 @@
+{
+  "tier": "low",
+  "theme": "neon",
+  "nav": [
+    "about",
+    "services",
+    "pricing",
+    "faq",
+    "contact"
+  ],
+  "features": {
+    "team": false,
+    "testimonials": false,
+    "blog": false,
+    "multiPage": false
+  }
+}

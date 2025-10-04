@@ -1,0 +1,1 @@
+export default { content:["./app/**/*.{js,ts,jsx,tsx}","./components/**/*.{js,ts,jsx,tsx}"], theme:{ extend:{ colors:{ neon:"#39ff14" } } }, plugins:[] } as const;

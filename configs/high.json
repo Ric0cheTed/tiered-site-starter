@@ -1,0 +1,16 @@
+{
+  "tier": "high",
+  "theme": "neon",
+  "nav": [
+    "about",
+    "services",
+    "blog",
+    "contact"
+  ],
+  "features": {
+    "team": true,
+    "testimonials": true,
+    "blog": true,
+    "multiPage": true
+  }
+}

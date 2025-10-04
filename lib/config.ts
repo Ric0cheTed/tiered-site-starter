@@ -1,0 +1,1 @@
+import raw from "@/site.config.json"; export const siteConfig = raw as any;

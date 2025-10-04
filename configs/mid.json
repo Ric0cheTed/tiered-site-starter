@@ -1,0 +1,19 @@
+{
+  "tier": "mid",
+  "theme": "neon",
+  "nav": [
+    "about",
+    "services",
+    "team",
+    "testimonials",
+    "pricing",
+    "faq",
+    "contact"
+  ],
+  "features": {
+    "team": true,
+    "testimonials": true,
+    "blog": false,
+    "multiPage": false
+  }
+}
